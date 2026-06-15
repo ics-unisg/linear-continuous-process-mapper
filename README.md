@@ -39,3 +39,8 @@ components (data processors, graph builders, analyzers) to create the complete p
 
 **layout** - Dash-based web application frontend providing interactive controls for activity selection, graph builder
 choice, visualization simplification options, and the main graph display area
+
+## Repository Authors
+- [@moritzfaes](https://github.com/moritzfaes)
+- [@hvoelzer](https://github.com/hvoelzer)
+- [@aaronkurz](https://github.com/aaronkurz)
