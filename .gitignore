@@ -1,0 +1,37 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+btgvenv/
+venv/
+.venv/
+env/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Flask / Plotly Dash
+instance/
+.webassets-cache
+*.log
+
+# Caches
+.cache/
+.pytest_cache/
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Build / Packages
+build/
+dist/
+*.egg-info/
+
+# Datasets
+datasets/
